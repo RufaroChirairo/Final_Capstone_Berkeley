@@ -3,7 +3,7 @@
 My capstone project uses water-quality monitoring data from the UN GEMStat database to test whether routine water-quality measurements can predict *E. coli* exceedances in river water. Six classification models were compared, three were tuned with cross-validated grid search, and the best model was analyzed to see which measurements matter most.
 
 * Author: Rufaro Chirairo
-* Notebook: 
+* Notebook: https://github.com/RufaroChirairo/Final_Capstone_Berkeley/blob/main/Capstone_Final-Final.ipynb
 
 ---
 
